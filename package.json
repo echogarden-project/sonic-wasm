@@ -1,0 +1,24 @@
+{
+  "name": "@echogarden/sonic-wasm",
+  "version": "0.1.1",
+  "description": "Sonic library, compiled to WASM. Intended for use with Echogarden.",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "sonic.cjs",
+  "files": [
+    "sonic.cjs",
+    "sonic.wasm",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Echogarden project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/echogarden-project/echogarden"
+  },
+  "license": "Apache-2.0"
+}
