@@ -18,7 +18,7 @@
   "author": "Echogarden project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/echogarden-project/echogarden"
+    "url": "https://github.com/echogarden-project/sonic-wasm"
   },
   "license": "Apache-2.0"
 }
